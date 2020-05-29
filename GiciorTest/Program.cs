@@ -10,6 +10,9 @@ namespace GiciorTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
+            Console.WriteLine("nowy tekst ");
+            Console.ReadKey();
         }
     }
 }
